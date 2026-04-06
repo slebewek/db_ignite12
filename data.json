@@ -4,7 +4,7 @@
       "name": "Paket 1GB",
       "spec": "RAM 1000MB | CPU 40%",
       "price": "2.000",
-      "status": "active"
+      "status": "passive"
     },
     {
       "name": "Paket 2GB",
