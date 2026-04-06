@@ -111,6 +111,26 @@
       "status": "active"
     }
   ],
+  "murid": [
+    {
+      "name": "Murnok",
+      "price": "7.000",
+      "spec": "Di ajarin sampe bisa",
+      "status": "active"
+    },
+    {
+      "name": "Mursun",
+      "price": "5.000",
+      "spec": "Di ajarin sampe bisa",
+      "status": "active"
+    },
+    {
+      "name": "Murlog",
+      "price": "5.000",
+      "spec": "Di ajarin sampe bisa",
+      "status": "active"
+    }
+  ],
   "ssm": [
     {
       "category": "Instagram Followers (Real & Aktif Indonesia)",
