@@ -1,6 +1,6 @@
   {
   "panel": [
-    { "name": "Paket 1GB", "spec": "RAM 1000MB | CPU 40%", "price": "2.000", "status": "active" },
+    { "name": "Paket 1GB", "spec": "RAM 1000MB | CPU 40%", "price": "2.000", "status": "Passive" },
     { "name": "Paket 2GB", "spec": "RAM 2000MB | CPU 60%", "price": "4.000", "status": "active" },
     { "name": "Paket 3GB", "spec": "RAM 3000MB | CPU 80%", "price": "6.000", "status": "active" },
     { "name": "Paket 4GB", "spec": "RAM 4000MB | CPU 100%", "price": "8.000", "status": "active" },
