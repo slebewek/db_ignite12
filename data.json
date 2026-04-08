@@ -10,13 +10,13 @@
       "name": "Paket 2GB",
       "spec": "RAM 2000MB | CPU 60%",
       "price": "4.000",
-      "status": "active"
+      "status": "passive"
     },
     {
       "name": "Paket 3GB",
       "spec": "RAM 3000MB | CPU 80%",
       "price": "6.000",
-      "status": "active"
+      "status": "passive"
     },
     {
       "name": "Paket 4GB",
