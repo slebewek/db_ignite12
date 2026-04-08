@@ -46,7 +46,7 @@
       "name": "Paket 8GB",
       "spec": "RAM 8000MB | CPU 180%",
       "price": "16.000",
-      "status": "passive"
+      "status": "active"
     },
     {
       "name": "Paket 9GB",
@@ -64,7 +64,7 @@
       "name": "Paket Unlimited",
       "spec": "RAM Unlimited | CPU Unlimited",
       "price": "35.000",
-      "status": "passive"
+      "status": "active"
     }
   ],
   "jasa": [
