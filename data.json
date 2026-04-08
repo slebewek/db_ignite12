@@ -58,7 +58,7 @@
       "name": "Paket 10GB",
       "spec": "RAM 10000MB | CPU 220%",
       "price": "20.000",
-      "status": "active"
+      "status": "passive"
     },
     {
       "name": "Paket Unlimited",
