@@ -34,7 +34,7 @@
       "name": "Paket 6GB",
       "spec": "RAM 6000MB | CPU 140%",
       "price": "12.000",
-      "status": "active"
+      "status": "passive"
     },
     {
       "name": "Paket 7GB",
