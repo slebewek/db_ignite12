@@ -138,7 +138,7 @@
         {
           "qty": "100",
           "price": "7.000",
-          "status": "active"
+          "status": "passive"
         },
         {
           "qty": "1.000",
